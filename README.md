@@ -17,7 +17,9 @@
 不改代码可以直接跑。
 
 ![](https://wiki.vrast.cn/assets/files/2024-09-03/1725374930-135690-image.png)
+
 上图的default.txt文件的内容为：
+
 ```
 杜鹃
 月星
