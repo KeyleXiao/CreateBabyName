@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgloOb0Eu2F9zTA7aMk6Ha5RK54HLXjB+/G4EeoVcrXER7bJ5x73FhmTwRuW4/JBfvPQFnZCz8IcgBXrW7t/lg==",
+  "success": true,
+  "projectFilePath": "/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/keyle/.nuget/packages/microsoft.international.converters.pinyinconverter/1.0.0/microsoft.international.converters.pinyinconverter.1.0.0.nupkg.sha512",
+    "/Users/keyle/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/keyle/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/keyle/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/keyle/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/keyle/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/keyle/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.International.Converters.PinYinConverter 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.International.Converters.PinYinConverter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}

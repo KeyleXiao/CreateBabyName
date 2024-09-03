@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Microsoft.International.Converters.PinYinConverter": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Microsoft.International.Converters.PinYinConverter/1.0.0": {
+        "runtime": {
+          "lib/ChnCharInfo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.International.Converters.PinYinConverter/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hEs/VPwGFeVNLf2Wc6k2bMYF71zE6x+lW4MfebRAjkVbAbaa4DbEmdFRfSBymvGLtdsCUvXo2aa/yFKYSCYmEQ==",
+      "path": "microsoft.international.converters.pinyinconverter/1.0.0",
+      "hashPath": "microsoft.international.converters.pinyinconverter.1.0.0.nupkg.sha512"
+    }
+  }
+}

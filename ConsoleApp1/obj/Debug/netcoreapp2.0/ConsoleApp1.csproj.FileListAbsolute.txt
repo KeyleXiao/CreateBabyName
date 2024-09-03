@@ -1,0 +1,13 @@
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.deps.json
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.runtimeconfig.json
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.runtimeconfig.dev.json
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.dll
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.pdb
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.AssemblyInfo.cs
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.dll
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.pdb
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keyle/Documents/Code/Class-DebugCase/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.genruntimeconfig.cache
